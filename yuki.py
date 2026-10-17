@@ -962,7 +962,8 @@ def main():
 
     print("Bot is running with python-telegram-bot...")
     print("Thank for using By Telegram@phyo39r")
-    app.run_polling(drop_pending_updates=True, close_loop=False)
+            app.
+run_polling(drop_pending_updates=True, close_loop=False)
             break
         except KeyboardInterrupt:
             print(yellow + "\n[MAIN] Stopped" + reset)
